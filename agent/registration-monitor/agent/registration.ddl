@@ -3,5 +3,5 @@ metadata  :name         => "registration-monitor",
           :author       => "R.I.Pienaar",
           :license      => "GPLv2",
           :version      => "1.0",
-          :url          => "https://github.com/puppetlabs/mcollective-plugins"
-
+          :url          => "https://github.com/puppetlabs/mcollective-plugins",
+          :timeout      => 5

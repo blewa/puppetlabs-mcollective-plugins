@@ -1,6 +1,6 @@
 module MCollective
   module Agent
-    class Registration
+    class RegistrationMonitor
       attr_reader :timeout, :meta
 
       def initialize
