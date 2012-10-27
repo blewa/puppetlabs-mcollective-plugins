@@ -1,4 +1,4 @@
-metadata  :name         => "registrationmonitor",
+metadata  :name         => "registration",
           :description  => "Agent to write a file per sender each time the sender checks in",
           :author       => "R.I.Pienaar",
           :license      => "GPLv2",
